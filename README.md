@@ -1,4 +1,3 @@
-````markdown
 # Student Learning Style Classification Using Decision Tree Algorithm
 
 This project is a group project developed for **CSC649 Special Topics in Computer Science**. The project focuses on classifying students' learning styles using a **Decision Tree algorithm**.
