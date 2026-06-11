@@ -17,7 +17,7 @@ The system predicts a student's learning style based on the **VAK learning style
 **Course Code:** CSC649  
 **Course Name:** Special Topics in Computer Science  
 **Faculty:** Faculty of Computer and Mathematical Sciences  
-**University:** Universiti Teknologi MARA  
+**University:** Universiti Teknologi MARA (UiTM) 
 
 ---
 
